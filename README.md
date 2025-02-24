@@ -17,7 +17,7 @@ Clone the repository:
 bash
 Copy
 Edit
-git clone https:
+git clone https:https://github.com/Jeetibp/IPL-Score-Prediction-ML/blob/main/ML%20Assignment%20with%20added%20Run%20rate%20feature%20for%20IPL.ipynb
 cd IPL-Score-Prediction-ML
 Install dependencies:
 bash
